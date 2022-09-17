@@ -267,7 +267,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  github-pages (~> 215)
+  github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-data
   jekyll-feed (~> 0.12)

@@ -9,4 +9,4 @@ permalink: /home/
 
 ## 最新动态
 
-[link]: http://www.google.com/ "Google"
+[CTAB](http://ctap.litmind.ink)

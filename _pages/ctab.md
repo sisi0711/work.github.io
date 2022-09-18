@@ -9,6 +9,6 @@ permalink: /research/ctab/
 
 [CTAB](http://ctap.litmind.ink)
 
-![web-picture-1](/assets/images/ctab_1.png)
-![web-picture-2](/assets/images/ctab_2.png)
-![web-picture-3](/assets/images/ctab_3.png)
+![web-picture-1](../assets/images/ctab_1.png)
+![web-picture-2](../assets/images/ctab_2.png)
+![web-picture-3](../assets/images/ctab_3.png)

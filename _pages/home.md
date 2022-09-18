@@ -10,3 +10,5 @@ permalink: /home/
 ## 最新动态
 
 [CTAB](http://ctap.litmind.ink)
+
+[research](./research.md)

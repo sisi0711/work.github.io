@@ -9,8 +9,7 @@ permalink: /research/ctab/
 
 [CTAB](http://ctap.litmind.ink)
 
-<!-- <img scr="../assets/images/ctab_1.png" width = "300" alt="图片名称" align=center> -->
-<div align="center">![Screenshot from 2018-04-12 10:51:38.png](https://upload-images.jianshu.io/upload_images/10028058-8f88a15298d8ef12.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 条件随机场模型示意图 </div>
+<img src="../assets/images/ctab_1.png" width = "300" alt="图片名称" align=center>
 
 ![web-picture-1](../assets/images/ctab_1.png)
 ![web-picture-2](../assets/images/ctab_2.png)

@@ -9,7 +9,7 @@ permalink: /research/ctab/
 
 [CTAB](http://ctap.litmind.ink)
 
-<img scr="../assets/images/ctab_1.png" width = "300" alt="图片名称" align=center>
+<!-- <img scr="../assets/images/ctab_1.png" width = "300" alt="图片名称" align=center> -->
 
 ![web-picture-1](../assets/images/ctab_1.png "open")
 ![web-picture-2](../assets/images/ctab_2.png "down")

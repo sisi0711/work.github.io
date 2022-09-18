@@ -9,6 +9,18 @@ permalink: /research/ctab/
 
 [CTAB](http://ctap.litmind.ink)
 
-![web-picture-1](../assets/images/ctab_1.png)
+<div align=center>
+<img width=300 src="../assets/images/ctab_1.png"/>
+<img width=300 src="../assets/images/ctab_2.png"/>
+<img width=300 src="../assets/images/ctab_3.png"/>
+</div>
+
+<div align=center>
+open
+down
+register
+</div>
+
+<!-- ![web-picture-1](../assets/images/ctab_1.png)
 ![web-picture-2](../assets/images/ctab_2.png)
-![web-picture-3](../assets/images/ctab_3.png)
+![web-picture-3](../assets/images/ctab_3.png) -->

@@ -12,3 +12,5 @@ permalink: /research/
 ## 辅助词典编撰
 
 ## 众包标注
+
+[中文 CTAP—汉语文本复杂度分析平台](./ctab.md)

@@ -8,7 +8,3 @@ permalink: /home/
 ## 关于我们
 
 ## 最新动态
-
-[CTAB](http://ctap.litmind.ink)
-
-[research](./research.md)

@@ -12,8 +12,10 @@ permalink: /research/ctab/
 <img src="../assets/images/ctab_1.png" width = "300" alt="图片名称" align=center>
 
 ![alt-text][logo]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "text"
 
 ![web-picture-1](../assets/images/ctab_1.png)
 ![web-picture-2](../assets/images/ctab_2.png)
 ![web-picture-3](../assets/images/ctab_3.png)
+
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "text"

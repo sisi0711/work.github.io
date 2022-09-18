@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 locale: zh-CN
-title: ""
 title: "语言监测与智能学习研究组"
 email: blcuicall@163.com
 logo:  /assets/images/blcuicall.png
@@ -28,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 masthead_title: " "
 
@@ -40,5 +39,5 @@ atom_feed:
 plugins:
   - jekyll-feed
 
-powered_by: false
+# powered_by: false
 

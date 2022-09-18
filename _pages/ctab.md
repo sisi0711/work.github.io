@@ -10,7 +10,7 @@ permalink: /research/ctab/
 [CTAB](http://ctap.litmind.ink)
 
 <div>
-<img src="/assets/images/ctab_1.png" width="300" alt="图片名称" align=center>
+<img src="/work.github.io/assets/images/ctab_1.png" width="300" alt="图片名称" align=center>
 </div>
 
 ![alt-text][logo]

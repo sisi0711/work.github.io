@@ -22,8 +22,8 @@ locale: zh-CN
 title: "语言监测与智能学习研究组"
 email: blcuicall@163.com
 logo:  /assets/images/blcuicall.png
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/work.github.io/" # the subpath of your site, e.g. /blog
+url: "https://sisi0711.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minimal-mistakes-jekyll

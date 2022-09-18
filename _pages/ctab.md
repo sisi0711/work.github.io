@@ -9,6 +9,6 @@ permalink: /research/ctab/
 
 [CTAB](http://ctap.litmind.ink)
 
-[web-picture-1]: /assets/images/ctab_1.png	"打开"
-[web-picture-2]: /assets/images/ctab_1.png	"下滚"
-[web-picture-3]: /assets/images/ctab_1.png	"注册"
+![web-picture-1]: /assets/images/ctab_1.png	"打开"
+![web-picture-2]: /assets/images/ctab_1.png	"下滚"
+![web-picture-3]: /assets/images/ctab_1.png	"注册"

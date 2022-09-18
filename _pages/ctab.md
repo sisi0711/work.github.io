@@ -11,8 +11,10 @@ permalink: /research/ctab/
 
 <div>
 <img src="/work.github.io/assets/images/ctab_1.png" width="300" alt="图片名称" style="vertical-align:middle;">
-Recovering Private Text in Federated Learning of Language Models
-<br>Samyak Gupta, Yangsibo Huang, Zexuan Zhong, Tianyu Gao, Kai Li, Danqi Chen
-<br>arXiv 2022
-<br>[paper]
+<span style="display: inline-block;">
+Recovering Private Text in Federated Learning of Language Models<br>
+Samyak Gupta, Yangsibo Huang, Zexuan Zhong, Tianyu Gao, Kai Li, Danqi Chen<br>
+arXiv 2022<br>
+[paper]
+</span>
 </div>
